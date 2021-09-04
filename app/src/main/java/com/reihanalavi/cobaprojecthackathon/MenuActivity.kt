@@ -19,6 +19,8 @@ class MenuActivity : AppCompatActivity() {
     }
 
     private fun hitungPersegi(sisi: Int): Int {
+        //toast fungsi nichhhhhh
+        //ogheh
         var luasFinal: Int?
         luasFinal = sisi * sisi
         return luasFinal
