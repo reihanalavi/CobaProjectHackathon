@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //test komen
         Toast.makeText(this, "Test app", Toast.LENGTH_SHORT).show()
     }
 }
