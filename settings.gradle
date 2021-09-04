@@ -1,0 +1,2 @@
+rootProject.name='CobaProjectHackathon'
+include ':app'
