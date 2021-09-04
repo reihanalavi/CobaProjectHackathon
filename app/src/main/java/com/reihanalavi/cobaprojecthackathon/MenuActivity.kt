@@ -23,6 +23,6 @@ class MenuActivity : AppCompatActivity() {
         //ogheh
         var luasFinal: Int?
         luasFinal = sisi * sisi
-        return luasFinal
+        return luasFinal - 2
     }
 }
